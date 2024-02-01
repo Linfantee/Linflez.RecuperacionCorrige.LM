@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+.fondo{
+	background-color: green;
+
+}
+
+table, tr,th{
+border: solid grey;
+border-collapse:separate;
+}
+
+.title{
+	padding: 5px;
+	font-family:fantasy ;
+	
+	
+}
